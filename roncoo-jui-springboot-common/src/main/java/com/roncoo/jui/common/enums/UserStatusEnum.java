@@ -19,4 +19,8 @@ public enum UserStatusEnum {
 		this.desc = desc;
 	}
 
+    public String getCode() {
+        return null;
+    }
+
 }

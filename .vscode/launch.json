@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Spring Boot-RoncooJuiSpringbootWebApplication<roncoo-jui-springboot-web>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.roncoo.jui.RoncooJuiSpringbootWebApplication",
+            "projectName": "roncoo-jui-springboot-web",
+            "args": ""
+        }
+    ]
+}
